@@ -1,5 +1,4 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
-from Screens import Screen1
 from Screens.Screen1 import Ui_CreateCompany
 
 class Ui_AccountingSoftware(object):
